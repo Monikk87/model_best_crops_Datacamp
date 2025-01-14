@@ -1,0 +1,7 @@
+A dataset called soil_measures.csv was provided by Datacamp and contains:
+
+"N": Nitrogen content ratio in the soil
+"P": Phosphorous content ratio in the soil
+"K": Potassium content ratio in the soil
+"pH" value of the soil
+"crop": categorical values that contain various crops (target variable).
